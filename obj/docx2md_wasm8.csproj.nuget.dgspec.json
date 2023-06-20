@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/docx2md_wasm8.csproj": {}
+  },
+  "projects": {
+    "/Users/fabianvalverde/Documents/GitHub/cli2/docx_lib/docx_lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fabianvalverde/Documents/GitHub/cli2/docx_lib/docx_lib.csproj",
+        "projectName": "docx_lib",
+        "projectPath": "/Users/fabianvalverde/Documents/GitHub/cli2/docx_lib/docx_lib.csproj",
+        "packagesPath": "/Users/fabianvalverde/.nuget/packages/",
+        "outputPath": "/Users/fabianvalverde/Documents/GitHub/cli2/docx_lib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fabianvalverde/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/fabianvalverde/Documents/GitHub/cli2/Html2OpenXml/HtmlToOpenXml.csproj": {
+                "projectPath": "/Users/fabianvalverde/Documents/GitHub/cli2/Html2OpenXml/HtmlToOpenXml.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Mammoth": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Markdig": {
+              "target": "Package",
+              "version": "[0.30.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-preview.4.23260.5/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fabianvalverde/Documents/GitHub/cli2/Html2OpenXml/HtmlToOpenXml.csproj": {
+      "version": "2.3.0",
+      "restore": {
+        "projectUniqueName": "/Users/fabianvalverde/Documents/GitHub/cli2/Html2OpenXml/HtmlToOpenXml.csproj",
+        "projectName": "HtmlToOpenXml.dll",
+        "projectPath": "/Users/fabianvalverde/Documents/GitHub/cli2/Html2OpenXml/HtmlToOpenXml.csproj",
+        "packagesPath": "/Users/fabianvalverde/.nuget/packages/",
+        "outputPath": "/Users/fabianvalverde/Documents/GitHub/cli2/Html2OpenXml/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fabianvalverde/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.19.0, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-preview.4.23260.5/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/docx2md_wasm8.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/docx2md_wasm8.csproj",
+        "projectName": "docx2md_wasm8",
+        "projectPath": "/Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/docx2md_wasm8.csproj",
+        "packagesPath": "/Users/fabianvalverde/.nuget/packages/",
+        "outputPath": "/Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fabianvalverde/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/fabianvalverde/Documents/GitHub/cli2/docx_lib/docx_lib.csproj": {
+                "projectPath": "/Users/fabianvalverde/Documents/GitHub/cli2/docx_lib/docx_lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[8.0.0-preview.4.23260.4, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0-preview.4.23260.4, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0-preview.4.23259.5, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.WebAssembly.Pack": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0-preview.4.23259.5, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[8.0.0-preview.4.23259.5, 8.0.0-preview.4.23259.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-preview.4.23260.5/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

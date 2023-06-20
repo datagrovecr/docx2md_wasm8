@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/docx2md_wasm8.props" />
+</Project>

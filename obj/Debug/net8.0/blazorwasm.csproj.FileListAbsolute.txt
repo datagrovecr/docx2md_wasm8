@@ -1,0 +1,6 @@
+/Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/obj/Debug/net8.0/blazorwasm.csproj.AssemblyReference.cache
+/Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/obj/Debug/net8.0/blazorwasm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/obj/Debug/net8.0/blazorwasm.AssemblyInfoInputs.cache
+/Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/obj/Debug/net8.0/blazorwasm.AssemblyInfo.cs
+/Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/obj/Debug/net8.0/blazorwasm.csproj.CoreCompileInputs.cache
+/Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/obj/Debug/net8.0/blazorwasm.MvcApplicationPartsAssemblyInfo.cache
