@@ -207,14 +207,14 @@
       "System.Private.CoreLib.dll": "sha256-XHiz1V6QeFVEOMj+ylC1aoenO87q7XGt0U7t+99CorA=",
       "docx_lib.dll": "sha256-arP305\/qgeQ\/zpBSR9hD3wGcMR4fXuFiWnnaFLnRGnk=",
       "HtmlToOpenXml.dll": "sha256-+4yLOYxm5kJdqVEW7GZ+AF8kZjJz4UIbgX6LKN1q5Sk=",
-      "docx2md_wasm8.dll": "sha256-5EtmLQJEYtJM0+KZBPfkYTj6McurqHygotxIpExzP9E="
+      "docx2md_wasm8.dll": "sha256-QdbugCkecWmH+QZnj7YQRhEcxeG9WfiU4HsOfUMCz8Y="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "docx_lib.pdb": "sha256-m+nsBesWCATin2kM3bdHRYB11mH\/G3JPTMjeK3a5CmI=",
-      "docx2md_wasm8.pdb": "sha256-6RUhOAUl2djrX1y3xh7G2IpRixfemCWtSnFfVKya+m4="
+      "docx2md_wasm8.pdb": "sha256-otU1OQsWlOOOezl16ZtcAOPF589GRLy2\/gdWzdltdpg="
     },
     "runtime": {
       "dotnet.8.0.0-preview.4.23259.5.4t2gvwv73d.js": "sha256-CHlM2Mox5B7oj5huR0IQebBsNFz15i+GjetAl+3ZZRo=",

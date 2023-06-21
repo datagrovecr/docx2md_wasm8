@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("docx2md_wasm8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83474ed10c645b116fc0e7207044ade9a6a6b1c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64894ff47b55fc8613adbb35cc0705f051b20b32")]
 [assembly: System.Reflection.AssemblyProductAttribute("docx2md_wasm8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("docx2md_wasm8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
