@@ -853,3 +853,4 @@
 /Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/bin/Debug/net8.0/wwwroot/_framework/Mammoth.dll.gz
 /Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/bin/Debug/net8.0/Mammoth.dll
 /Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/obj/Debug/net8.0/compressed/4o8sxic2qo.gz
+/Users/fabianvalverde/Documents/GitHub/docx2md_wasm8/obj/Debug/net8.0/docx2md_wasm8.sourcelink.json

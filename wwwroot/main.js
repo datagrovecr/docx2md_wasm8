@@ -24,7 +24,7 @@ window.convertToMd = (input) => {
   
       var zipBytes = await DotNet.invokeMethodAsync("docx2md_wasm8", "openDocxZipFile2", new Uint8Array(reader.result), file.name);
   
-      downloadBlob(zipBytes, 'testMd.zip', 'application/octet-stream');
+      downloadBlob(zipBytes, 'testHtml.html', 'application/octet-stream');
     };
     reader.readAsArrayBuffer(file);
   }
